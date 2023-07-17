@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS  moviereview;
-create database moviewreview;
+create database moviereview;
 commit;
  
 USE moviereview;
